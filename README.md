@@ -77,35 +77,35 @@ All screenshots are stored inside the `screenshots/` folder. The images will be 
 
 ### S3 Bucket Creation
 
-![S3 Bucket Created](screenshots/s3-bucket-created.png)
+![S3 Bucket Created](screenshots/S3-bucket-created.png)
 
 ### Files Uploaded to S3 Bucket
 
-![Files Uploaded to S3](screenshots/s3-files-uploaded.png)
+![Files Uploaded to S3](screenshots/S3-files-uploaded.png)
 
 ### Static Website Hosting Enabled
 
-![Static Website Hosting](screenshots/s3-static-website-hosting.png)
+![Static Website Hosting](screenshots/S3-configured-to-host.png)
 
 ### Public Access Settings & Bucket Policy
 
-![S3 Bucket Policy](screenshots/s3-bucket-policy.png)
+![S3 Bucket Policy](screenshots/S3-public-access.png)
 
 ### CloudFront Distribution Configuration
 
-![CloudFront Distribution](screenshots/cloudfront-distribution.png)
+![CloudFront Distribution](screenshots/Configuring-CloudFront.png)
 
 ### Website Access via S3 URL
 
-![Website via S3](screenshots/website-s3-url.png)
+![Website via S3](screenshots/S3-bucket-URL.png)
 
 ### Website Access via CloudFront URL
 
-![Website via CloudFront](screenshots/website-cloudfront-url.png)
+![Website via CloudFront](screenshots/CloudFront-URL.png)
 
 ### CloudFront URL on Different Devices
 
-![CloudFront Multiple Devices](screenshots/cloudfront-multiple-devices.png)
+![CloudFront Multiple Devices](screenshots/CloudFront-URL-different-device.jpeg)
 
 ---
 

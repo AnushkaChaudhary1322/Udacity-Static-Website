@@ -66,7 +66,7 @@ The following files and folders are included in this project:
 * **CloudFront URL:**
 
   ```
-  https://dozcf2h5wo5h4.cloudfront.net/index.html
+ [d1vhq3qdmqutg6.cloudfront.net](https://d1vhq3qdmqutg6.cloudfront.net/)
   ```
 
 ---
